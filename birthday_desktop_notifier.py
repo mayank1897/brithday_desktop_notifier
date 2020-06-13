@@ -1,7 +1,6 @@
 from plyer import notification
 import pandas as pd
 import datetime
-import time
 
 def birthday_notifier(name,relation):
     notification.notify(
